@@ -60,3 +60,6 @@ Elemental Burst: \[1+ Vial\] \[Action\] Target a space within attack range. Deal
 Raining Arrows: \[1 Water Vial \+ 1+ Vials\] \[Action\]  
 Collector’s Bounty: \[Action\] Clash with a target in melee. If you win, you can rip an arrow out from the target, \+1 for each 5 you won by, up to the number of times you hit the target this combat. You gain that many Vials of your choice.  
 If used on a Corpse, you get one Water Vial.
+
+
+TEST
