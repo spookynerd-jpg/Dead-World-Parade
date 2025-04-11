@@ -1,11 +1,12 @@
 Burn Table:
-- Spontaneous Combustion: Take damage equal to your current burn
-- Flame Begets Fire: Take a stack of Burning, that can only be put out by Seagazer. While Burning all your Actions deal 1d6 extra damage and Burn for every level of Burning, and 1d6 damage and Burn to you. Damage dealt in this way cannot be healed by any means other than Rest.
-- Crustacean Station: Chitin Grows. You get -1d6 accuracy on Rolls to Do and -10 Movement, but gain 1d6 DR
-- Shapes in the Heat Haze: Whenever you Attack anyone but Seagazer, roll 1d20. On a 4 or lower, you automatically miss.
-- Mythos Manifestation: You add +1 to all of your Attribute Bonuses.
-- Torchlight in the Fog: Seagazer can select you for free whenever she uses Foreteller, Clouded.
-- Astral Glitch: You teleport to an empty space 1d20 spaces in a random direction
-- Astral Parasites: They found you. Take 1d10 Damage at the start of each act, Reduce your Burn by the same amount. When this effect reduces your burn by a cumulative 10, spawn d3 tiles of Astral Sea around you.
-- Information Overload: Your mind leaks in embers. Seagazer gets a Vision of Your Backstory :tm:
-- Sludge Sunday: Your body begins to run like molten rock. Any Burn you take is now Doubled.
+2 - Sludge Sunday: Your body begins to run like molten rock. Any Burn you take is now Doubled.
+3 - Astral Parasites: They found you. Take 1d10 Damage at the start of each act, Reduce your Burn by the same amount. When this effect reduces your burn by a cumulative 10, spawn d3 tiles of Astral Sea around you.\
+4 - Astral Glitch: You teleport to an empty space 1d20 spaces in a random direction
+5 - Crustacean Station: Chitin Grows. You get -1d6 accuracy on Rolls to Do and -10 Movement, but gain 1d6 DR
+6- Torchlight in the Fog: Seagazer can select you for free whenever she uses Foreteller, Clouded.
+7- Spontaneous Combustion: Take damage equal to your current burn
+8 - Mythos Manifestation: You add +1 to all of your Attribute Bonuses.
+9 - Flame Begets Fire: Take a stack of Burning, that can only be put out by Seagazer. While Burning all your Actions deal 1d6 extra damage and Burn for every level of Burning, and 1d6 damage and Burn to you. Damage dealt in this way cannot be healed by any means other than Rest.
+10- Shapes in the Heat Haze: Whenever you Attack anyone but Seagazer, roll 1d20. On a 4 or lower, you automatically miss.
+11 - Information Overload: Your mind leaks in embers. Seagazer gets a Vision of Your Backstory :tm:
+12 - Coagulated Pathos: The self blurs. Select another Flame infected creature on the battlefield. Gain one of their abilities; they gain an ability of yours in turn. If no other creatures on the battlefield are Flame infected, targets Seagazer; in this case, the ability is only retained so long as the source creature is alive.
