@@ -7,7 +7,7 @@ Size 2
 
 **Green** +3  
 **Black** +4  
-**Static** +4
+**Gold** +4
 
 Abilities work on standard Sentiment AI. Attribute chosen by highest Attribute Bonus at the start of every Act.
 
@@ -17,5 +17,5 @@ Labored Leap: [Action] [Green] Leap into the air, crashing down on the last crea
 
 The Lick: [Action] [Black] Ranged Attack. On hit, increase target's Poison up to 50. Spawn up to 3 spaces of Pissy Shitty Swamp along the path of the tongue. Target's Poison is not altered if above 50.
 
-Gulp Down: [Action] [Static] Make a Contested Roll against the closest creature. On success, they are Swallowed Whole, being immobilized inside your stomach. Swallowed Whole creatures take Poison as if in constant Pissy Shitty Swamp, alongside taking damage equal to your Swing, at the start of every Act.   
+Gulp Down: [Action] [Gold] Make a Contested Roll against the closest creature. On success, they are Swallowed Whole, being immobilized inside your stomach. Swallowed Whole creatures take Poison as if in constant Pissy Shitty Swamp, alongside taking damage equal to your Swing, at the start of every Act.   
 If a Swallowed Whole character perishes, their bloodstain, if applicable, is left inside your stomach, and can only be retrieved through your death.
